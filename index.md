@@ -4,6 +4,20 @@
 
 ## Posts
 
+### Code sample to send a scheduled python email report using AWS Lambda and SES services
+
+Working with python notebooks on data science tasks is very cool, but it is not easy to automate the execution of the analysis and notify the results as it is shown with the following image
+
+![report sample](assets/report_sample.png)
+
+There are some interesting works that automate the sending throw Jupyter such as
+
+* <https://pbpython.com/papermil-rclone-report-1.html>
+* <https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330>
+
+[but the solution proposed here](https://github.com/dtosato/aws-ses-lambda-python-report) is much easier, minimal, and easy to maintain throw AWS lambda.
+
+
 ### Deep Learning-based Production Forecasting in Manufacturing: a Packaging Equipment Case Study
 
 ![Galdi RG270](assets/rg270.jpg)
