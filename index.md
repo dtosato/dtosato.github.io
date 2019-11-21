@@ -30,8 +30,8 @@ ArCO and WArCO are  multi-class object detector based on a patch based model abl
 
 Code:
 
-* [ArCO](https://github.com/dtosato/ArCO)
-* [WArCO](https://github.com/dtosato/WArCO-)
+* [ArCO](https://github.com/dtosato/arco) (_deprecated_)
+* [WArCO](https://github.com/dtosato/warco)
 
 ### Low Resolution Pedestrian Detection
 
