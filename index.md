@@ -4,7 +4,7 @@
 
 ## Posts
 
-### Mash Project
+### MaSH project
 
 [![Filling Machines Performance Monitoring: Machine System Health (MaSH)](http://img.youtube.com/vi/7xZ1X23KW6Q/0.jpg)](https://youtu.be/7xZ1X23KW6Q)
 
