@@ -4,6 +4,25 @@
 
 ## Posts
 
+### Mash Project
+
+[![Filling Machines Performance Monitoring: Machine System Health (MaSH)](http://img.youtube.com/vi/7xZ1X23KW6Q/0.jpg)](https://youtu.be/7xZ1X23KW6Q)
+
+Fillers’ monitoring is one of the key components to ensure reliable machines and to meet production goals.
+
+In today's marketplace, even companies with medium production volumes - up to 7 million cartons/year - need to plan packaging and delivery in a precise and dependable way.
+
+This is even more true for big food manufacturers operating with tight production schedules, for whom machine downtimes can cause significant financial losses and also harm the company's image.
+
+Considering the extent to which the fillers' efficiency affects line production performances and OEE (Overall Equipment Effectiveness), Galdi has been developing a fillers' monitoring system, called MaSH (Machine System Health), since the end of 2017, which aims at:
+
+* offering a detailed view of the machine's efficiency
+* anticipating and preventing downtimes
+* providing detailed production data
+* improving the work of operators and maintenance technicians
+
+Read more at <https://www.galdi.it/en/news/pre-after-sales/fillers-monitoring-system-mash.html>.
+
 ### Code sample to send a scheduled python email report using AWS Lambda and SES services
 
 Working with python notebooks on data science tasks is very cool, but it is not easy to automate the execution of the analysis and notify the results as it is shown with the following image
@@ -16,7 +35,6 @@ There are some interesting works that automate the sending throw Jupyter such as
 * <https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330>
 
 [but the solution proposed here](https://github.com/dtosato/aws-ses-lambda-python-report) is much easier, minimal, and easy to maintain throw AWS lambda.
-
 
 ### Deep Learning-based Production Forecasting in Manufacturing: a Packaging Equipment Case Study
 
