@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Alarm Logs in Packaging Industry (ALPI)"
+date:   2020-07-30
+categories: post
+tags: iiot ai machine-learning
+pageIdentifier: "ALPI"
+description: "ALPI"
+comments: true
+image: "/assets/alpi.png"
+---
+![ALPI](/assets/alpi.png)
+
+We published [a dataset](https://ieee-dataport.org/open-access/alarm-logs-packaging-industry-alpi) of the alarms coming from Galdi's machines. You can find down here a small abstract.
+
+The advent of the Industrial Internet of Things (IIoT) has led to the availability of huge amounts of data, that can be used to train advanced Machine Learning algorithms to perform tasks such as Anomaly Detection, Fault Classification and Predictive Maintenance. Even though not all pieces of equipment are equipped with sensors yet, usually most of them are already capable of logging warnings and alarms occurring during operation. Turning this data, which is easy to collect, into meaningful information about the health state of machinery can have a disruptive impact on the improvement of efficiency and up-time. The provided dataset consists of a sequence of alarms logged by packaging equipment in an industrial environment. The collection includes data logged by 20 machines, deployed in different plants around the world, from 2019-02-21 to 2020-06-17. There are 154 distinct alarm codes, whose distribution is highly unbalanced.
+
+1. Next alarm forecasting: this problem can be framed as a supervised multi-class classification task, or a binary classification task when a specific alarm code is considered.
+2. Predicting alarms occurring in a future time frame: here the goal is to forecast the occurrence of certain alarm types in a future time window. Since many alarms can occur, this is a supervised multi-label classification.
+3. Future alarm sequence prediction: here the goal is predicting an ordered sequence of future alarms, in a sequence-to-sequence forecasting scenario.
+4. Anomaly Detection: the task is to detect abnormal equipment conditions, based on the pattern of alarms sequence. This task can be either unsupervised, if only the input sequence is considered, or supervised if future alarms are taken into account to assess whether or not there is an anomaly.

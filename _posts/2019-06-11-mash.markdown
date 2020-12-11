@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Machine System Health (MaSH)"
+date:   2019-06-11
+categories: post
+tags: iiot dashboard analytics
+pageIdentifier: "MaSH"
+description: "MaSH"
+comments: false
+image: "/assets/mash.png"
+---
+![MaSH](/assets/mash.png)
+
+Fillers’ monitoring is one of the key components to ensure reliable machines and to meet production goals.
+
+In today's marketplace, even companies with medium production volumes - up to 7 million cartons/year - need to plan packaging and delivery in a precise and dependable way.
+
+This is even more true for big food manufacturers operating with tight production schedules, for whom machine downtimes can cause significant financial losses and also harm the company's image.
+
+Considering the extent to which the fillers' efficiency affects line production performances and OEE (Overall Equipment Effectiveness), Galdi has been developing a fillers' monitoring system, called MaSH (Machine System Health), since the end of 2017, which aims at:
+
+* offering a detailed view of the machine's efficiency
+* anticipating and preventing downtimes
+* providing detailed production data
+* improving the work of operators and maintenance technicians
+
+Read more [here][mash].
+
+[mash]: https://www.galdi.it/en/news/pre-after-sales/fillers-monitoring-system-mash.html

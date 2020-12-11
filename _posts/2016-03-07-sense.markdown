@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Skyline eNterprise Search Engine (SeNSE)"
+date:   2016-03-07
+categories: post
+tags: ir nlp machine-learning
+pageIdentifier: "Skyline eNterprise Search Engine (SeNSE)"
+description: "Skyline eNterprise Search Engine (SeNSE)"
+comments: false
+---
+[![SeNSE (Skyline eNterprise Search Engine)](http://img.youtube.com/vi/85MfIYKB_Yk/0.jpg)](https://youtu.be/85MfIYKB_Yk)
+
+Enterprise resource planning (ERP) systems are the core of many companies: they contain entities which are the focus of enterprise searches.  SeNSE (Skyline ENterprise Search Engine) implements a model which exploits those entities to improve the search experience of enterprise users is proposed. Specifically, a graph knowledge base called entity graph is defined. It is used both to offer a novel data exploration experience that reflects the business processes and to improve the search accuracy contributing to the score of a search result into a weighted linear model (see [Tosato IIR 2016](https://drive.google.com/file/d/0B0MZ5gr7K36SclBNUDhmei1aY0k/view?usp=sharing).

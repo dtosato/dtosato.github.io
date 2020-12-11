@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "ArCO and WArCO ( Weighted ARray of COvariances)"
+date:   2016-03-07
+categories: post
+tags: machine-learning computer-vision
+pageIdentifier: "ArCO"
+description: "ArCO"
+comments: true
+image: "/assets/arco.png"
+---
+![ArCO](/assets/arco.png)
+
+ArCO and WArCO are  multi-class object detector based on a patch based model able to deal with low resolution objects as described in [Tosato et al. [ECCV2010](https://drive.google.com/open?id=0B0MZ5gr7K36ScHV1OXR3UnNlb3M) , Tosato et al. [PAMI2012](https://drive.google.com/open?id=0B0MZ5gr7K36SeFBqRkNHLWlYOE0)].
+
+Code:
+
+* [ArCO](https://github.com/dtosato/arco) (_deprecated_)
+* [WArCO](https://github.com/dtosato/warco)

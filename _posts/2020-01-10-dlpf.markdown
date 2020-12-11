@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Deep Learning-based Production Forecasting in Manufacturing: a Packaging Equipment Case Study"
+date:   2020-01-10
+categories: post
+tags: iiot ai deep-learning
+pageIdentifier: "Deep Learning-based Production Forecasting in Manufacturing: a Packaging Equipment Case Study"
+description: "Deep Learning-based Production Forecasting in Manufacturing: a Packaging Equipment Case Study"
+comments: true
+image: "/assets/dlpm.jpg"
+---
+![Deep Learning-based Production Forecasting in Manufacturing: a Packaging Equipment Case Study](/assets/dlpm.jpg)
+
+In [this work](https://www.sciencedirect.com/science/article/pii/S2351978920300342), we propose a Deep Learning-based approach for production performance forecasting in fresh products packaging. On the one hand, this is a very demanding scenario where high throughput is mandatory; on the other, due to strict hygiene requirements, unexpected downtime caused by packaging machines can lead to huge product waste. Thus, our aim is predicting future values of key performance indexes such as Machine Mechanical Efficiency (MME) and Overall Equipment Effectiveness (OEE).We address this problem by leveraging Deep Learning-based approaches to exploit the full informative content of available historical data. In the proposed approach, we consider historical production performance data and measurements about warnings and alarms occurred during production stage, and combine them as a composite input to the neural network. The network the predicts future values for OEE and MME. Different architectures and prediction horizons are analyzed and compared to identify the most robust and effective solutions. We provide experimental results on a real industrial case, showing advantages with regard to current policies implemented by the industrial partner both in terms of forecasting accuracy and maintenance costs.
