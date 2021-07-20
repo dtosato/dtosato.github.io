@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Roadshow 2021: i 100 luoghi dell'industria 4.0 e della sostenibilità"
+date:   2021-07-20
+categories: post
+tags: iiot ai industry4.0
+pageIdentifier: "ROADSHOW 2021"
+description: "Roadshow 2021: i 100 luoghi dell'industria 4.0 e della sostenibilità"
+comments: true
+image: "/assets/roadshow2021.png"
+---
+Qui sotto il link al mio intervento al Roadshow 2021 organizzato da Confindustria Veneto SIAV e Galdi Srl.
+
+[![ROADSHOW - I 100 luoghi dell'industria 4.0 e della sostenibilità](/assets/roadshow2021.png)](https://vimeo.com/569344435/47cb968eb1)
